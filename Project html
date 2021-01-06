@@ -1,0 +1,13 @@
+<html>
+<head>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class = 'div'>
+    <p> <b><font size = "5">Done for revision </b> </font> 
+    <p> <font size = "5"> <b> Waiting for any amendment </b> </font> 
+  </div>
+</body>
+
+</html>
